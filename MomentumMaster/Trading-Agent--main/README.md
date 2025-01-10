@@ -1,1 +1,0 @@
-Momentum Master is an advanced trading agent designed for swing trading strategies. It utilizes sophisticated momentum indicators and machine learning algorithms to identify and capitalize on medium-term market trends.
